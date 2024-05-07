@@ -64,7 +64,7 @@ Following dependencie are needed to run this application:
 
 ## Deployment
 
-Visit to see the working on Youtube : https://youtu.be/DbYel2CUmCs
+Visit to see the working on Youtube : 
 
 Web Deployment :  https://get-youtube-subscribers-almabetter-backend.vercel.app/
 
